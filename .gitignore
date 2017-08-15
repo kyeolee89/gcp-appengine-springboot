@@ -60,7 +60,4 @@ crashlytics-build.properties
 fabric.properties
 
 *.iml
-.idea/markdown-navigator.xml
-.idea/markdown-navigator/profiles_settings.xml
-.idea/modules.xml
-.idea/vcs.xml
+.idea/
